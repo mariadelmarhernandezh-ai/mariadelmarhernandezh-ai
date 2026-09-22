@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm María del Mar Hernández 👋
 
-<!--
-**mariadelmarhernandezh-ai/mariadelmarhernandezh-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### International Business | Business Intelligence | Data Analytics
 
-Here are some ideas to get you started:
+I am an International Business student at EAFIT University, specializing in Business Intelligence, with a growing interest in Data Analytics and Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+
+- Business Intelligence
+- Data Analytics
+- Data Integration
+- Machine Learning
+- Artificial Intelligence
+
+## Tools
+
+- Python
+- Power BI
+- Power Query
+- Oracle SQL
+- Microsoft Excel
+
+## Academic Portfolio
+
+Projects developed throughout my academic training in Business Intelligence, Data Analytics, and related fields.
